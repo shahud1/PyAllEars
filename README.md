@@ -10,6 +10,17 @@ Using all the resources available online, Facebook, Twitter, Instagram(InstaBro 
 
 After that using the context of the sentence sentimental analysis is done.
 
+#update#
+
+No need to conduct eavesdropping in realtime since it is not needed.
+Eavesdropping should be done in software ( Python ).
+It should also be done only in public accounts
+For example, if a KanyeWest concert wants to see how and what people think about him/the concert, you could use the # to search in Instagram, twitter or even on Facebook.
+Instagram would yeild the best result since people use hashtags more frequently in instagram than anything else.
+This is good since then we can attach an image too with the python software.
+
+HUD 7/5/18
+
 ...
 
 
