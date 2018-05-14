@@ -19,7 +19,9 @@ For example, if a KanyeWest concert wants to see how and what people think about
 Instagram would yeild the best result since people use hashtags more frequently in instagram than anything else.
 This is good since then we can attach an image too with the python software.
 
-HUD 7/5/18
+THIS PROJECT IS PAUSED FOR NOW - will resume in June 2018
+
+HUD 14/5/18
 
 ...
 
