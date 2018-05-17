@@ -21,7 +21,9 @@ This is good since then we can attach an image too with the python software.
 
 THIS PROJECT IS PAUSED FOR NOW - will resume in June 2018
 
-HUD 14/5/18
+## This project has been moved to BITBUCKET.
+
+HUD 17/5/18
 
 ...
 
