@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 1500px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+     
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;} 
+    }
+
+    .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+  #feed{
+    background-color: rgb(182, 236, 236);
+  }
+  #rightfeed,#result{
+    background-color: rgb(247, 247, 247);
+  }
+  </style>
+</head>
+<body id="feed">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+              <p class="navbar-text">TweetAllEars</p>
+            </div>
+            <ul class="nav navbar-nav">
+              <li><a href="home.html">Search</a></li>
+              <li><a href="location.html">Location</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right"> 
+                <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+              </ul>
+          </div>
+    </nav>
+    <br />
+    <h1 class="text-center ">TweetAllEars</h1>
+<div class="container-fluid " >
+
+  <br />
+  <div class="col-xs-9">
+      <form >
+        <div class="form-group row">
+          <div class="col-xs-4">
+          <label class="radio-inline">
+              <input type="radio" name="optradio">KeyWord
+            </label>
+            <label class="radio-inline">
+              <input type="radio" name="optradio">HashTag
+            </label>
+          </div>
+          <div class="col-xs-6">
+            <input type="text" class="form-control-inline col-xs-12" id="Search">
+          </div>
+          <div class="col-xs-2">
+              <button type="button" class="btn btn-primaray btn-md">Go</button>
+            </div>
+          </div>
+      </form>
+      <div class="row" >
+       
+          <div class="panel-group">
+              <div class="panel panel-default">
+                <div class="panel-heading">Panel with panel-default class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+          
+              <div class="panel panel-primary">
+                <div class="panel-heading">Panel with panel-primary class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+          
+              <div class="panel panel-success">
+                <div class="panel-heading">Panel with panel-success class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+          
+              <div class="panel panel-info">
+                <div class="panel-heading">Panel with panel-info class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+          
+              <div class="panel panel-warning">
+                <div class="panel-heading">Panel with panel-warning class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+          
+              <div class="panel panel-danger">
+                <div class="panel-heading">Panel with panel-danger class</div>
+                <div class="panel-body">Panel Content</div>
+              </div>
+            </div>
+         
+      </div>
+    </div>
+  <div class="col-xs-3" >
+      <div class="panel panel-default">
+          <div class="panel-heading">Panel with panel-default class</div>
+          <div class="panel-body">Panel Content</div>
+        </div>
+  </div>
+  
+</div>
+
+
+
+ 
+
+
+</body>
+</html>
+
