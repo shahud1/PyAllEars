@@ -27,7 +27,7 @@ twitter_stream = TwitterStream(auth=oauth, domain='stream.twitter.com')
 #delimited	    optional	Specifies whether messages should be length-delimited. See delimited for more information.
 #stall_warnings	optional	Specifies whether stall warnings should be delivered. See stall_warnings for more information.
 
-iterator = twitter_stream.statuses.filter(follow='3151431577')
+iterator = twitter_stream.statuses.filter(track='#ถ้าหลวง')
 
 # Print each tweet in the stream to the screen
 # Here we set it to stop after getting 1000 tweets.
