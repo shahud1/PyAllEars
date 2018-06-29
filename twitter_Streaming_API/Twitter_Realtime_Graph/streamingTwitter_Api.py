@@ -31,7 +31,7 @@ class TweetListener(StreamListener):
             return True
         except BaseException as e:
             print('Error', e)
-        return True
+            return True
     
     def on_error(self, status):
         print(status)
