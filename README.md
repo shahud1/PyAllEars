@@ -30,7 +30,7 @@ then you'll need to create your own twitter app for using Twitter API from this 
 [Anaconda](https://www.anaconda.com/download/)
 
 ```
-pip install tweepy
+$ pip install tweepy
 
 ```
 ## Running the tests
@@ -60,7 +60,7 @@ Tweet Mining and Analyzing.ipynb
 
 And follow along the description inside Jupyter notebook.
 
-## 🤓 Happy Coding!
+## 🤓 Happy Data Science!
 
 # Part 2
 ...
