@@ -5,9 +5,9 @@ PyAllEars is a project done for analyzing what people say to measure their senti
 
 # In this project out work contain 2 major Methods 
 
-<strong>Part 1</strong> Text mining and Analysis on twitter
+<strong>Method 1</strong> Text mining and Analysis on twitter
 
-<strong>Part 2</strong> sentimental analysis on Twtiter
+<strong>Method 2</strong> Online twitter Sentiment Analysis AND Twitter Profile Analyzer SEE ONLINE NOW! http://178.128.40.132/
 
 # Method 1:Text mining and Analysis on twitter
 In this part we use Twitter API to capture all tweets from our interest with the realtime filter tweet an
