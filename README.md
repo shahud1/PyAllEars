@@ -63,10 +63,16 @@ And follow along the description inside Jupyter notebook.
 
 ## 🤓 Happy Data Science!
 
-# Part 2
+# Part 2 Online Twitter Sentimental Analysis AND Twitter profile analyzer
 ...
 ## Getting Started
-...
+This project contains 2 parts.
+Part A: Online Twitter Sentimental Analysis
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.03.25.png)
+
+
+
+
 ### Installing
 ...
 ## Running the tests
