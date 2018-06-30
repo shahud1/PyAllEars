@@ -66,11 +66,16 @@ And follow along the description inside Jupyter notebook.
 # Part 2 Online Twitter Sentimental Analysis AND Twitter profile analyzer
 
 This project contains 2 parts.
-Part A: Online Twitter Sentimental Analysis. ( HOSTED ONLINE )
+### Part A: Online Twitter Sentimental Analysis. ( HOSTED ONLINE )
 ![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.03.25.png)
 ![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.03.38.png)
 
-Part B: Twitter profile analyzer ( ON THE WAY TO HOST ONLINE )
+### Part B: Twitter profile analyzer ( ON THE WAY TO HOST ONLINE )
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.32.04.png)
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.33.30.png)
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Screen%20Shot%202561-06-30%20at%2020.34.06.png)
+
+
 
 ## Getting Started
 Part A: We are hosting this version online as installing this is a difficult task. You can check it out by visiting : http://178.128.40.132/ ( if it doesn't work try the IP address only ). It is hosted on DigitalOceans free version. Hence, there might be some delays. Also, since there is a process running the task of collecting tweets 24/7 the database is pretty huge and so to prevent lag the databse is truncated every 5 days. ( It can get as large as 10 GB in a week! ). Installation of this code will bee demonstrated in the next part. Also, the code for this part was demonostrated by Sentdex in his video. However I have some modifications to that code.
