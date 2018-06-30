@@ -1,57 +1,75 @@
 # PyAllEars
 
-One Paragraph of project description goes here
+PyAllEars is the project contians of tool and deep analysis development in order to evesdroping social media. In this project we use "Twitter" as a Social Media platform to used to analyze.
 
+# In this project we've worked contian 2 major parts 
+
+<strong>Part 1</strong> Text mining and Analysis on twitter
+
+<strong>Part 2</strong> sentimental analysis on Twtiter
+
+# Part 1:Text mining and Analysis on twitter
+In this part we use Twitter API to capture all tweets from our interest with the realtime filter tweet an
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+First of all you need to run this project in Jupyter Notebook in order to inspect the work and description You can either install <a href='https://www.anaconda.com/download/'> Anaconda</a> that already contained neccessary environmentsand these are Necessary libraries that we'll use for this project:
 
 ```
-Give examples
+- Json
+- pandas
+- matplotlib
+- re
+- matplotlib
+- Tweepy
+
 ```
+then you'll need to create your own twitter app for using Twitter API from this <a href='https://apps.twitter.com' >Link</a>
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+[Anaconda](https://www.anaconda.com/download/)
 
 ```
-Give the example
-```
-
-And repeat
+$ pip install tweepy
 
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Run Jupyter Notebook in Terminal
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+$ Jupyter Notebook
 
 ```
-Give an example
+After It run you can see in the directory PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/
+It contains  
+
+```
+2 Directories
+- data
+- img
+
+2 python files 
+- Tweet Mining and Analyzing.ipynb
+- Twitter_stream_api.py
+
+```
+Select 
+```
+Tweet Mining and Analyzing.ipynb
 ```
 
+And follow along the description inside Jupyter notebook.
+
+## 🤓 Happy Data Science!
+
+# Part 2
+...
+## Getting Started
+...
+### Installing
+...
+## Running the tests
+...
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
@@ -64,17 +82,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/shahud1/PyAllEars/tree/master/twitter_Streaming_API/Tweet_Mining%20and%20Deep_analyze) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Contributor 
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Shahud Hunsen**    🏝 (https://github.com/shahud1)
+* **Punchok Kerdsiri** 🐲 (https://github.com/punch872)
+* **Pathipan Phinkaew**🏯(https://github.com/boycatbay)
 
 ## License
 
@@ -82,8 +96,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+https://matplotlib.org
+https://apps.twitter.com
+https://developer.twitter.com
+http://www.tweepy.org
+http://en.wikipedia.org/wiki/Text_mining
+http://en.wikipedia.org/wiki/Word-sense_disambiguation
+http://en.wikipedia.org/wiki/Regular_expression
 
