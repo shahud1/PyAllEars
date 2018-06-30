@@ -1,7 +1,7 @@
 # PyAllEars
 ![logo](https://user-images.githubusercontent.com/17233710/42123523-c11d385a-7c7d-11e8-9393-a3d2a598f6e9.png)
 
-PyAllEars is a project done for analyzing what people say to measure their sentiment value. This was done a means of social media "Eavesdropping". In this project we use "Twitter" as thre Social Media platform.
+PyAllEars is a project done for analyzing what people say to measure their sentiment value. This was done a means of social media "Eavesdropping". In this project we use "Twitter" as thre Social Media platform. We also wanted to do it in both Facebook and Twitter. However recently they have enforced a very STRICT POLICY on sharing information publicly.
 
 # In this project out work contain 2 major Methods 
 
@@ -120,6 +120,9 @@ The pos, neu, and neg scores are ratios for proportions of text that fall in eac
 
 Both of these parts can be tested ONLINE and OFFLINE. So we kind of did both.
 See the following videos on how we did it!
+
+PART A : https://youtu.be/pYV1jdDVlfA
+PART B : https://youtu.be/rqMQ-VtBidA
 
 ## Built With
 * DASH
