@@ -1,14 +1,19 @@
 # PyAllEars
 
-One Paragraph of project description goes here
+PyAllEars is the project contians of tool and deep analysis development in order to evesdroping social media. In this project we use "Twitter" as a Social Media platform to used to analyze.
+
+# In this project we've worked into 2 major part 
+
+<strong>part 1 for Text mining and Analysis on twitter</strong>
+
+part 2 for tweet sentimental
 
 ## Getting Started
+Py 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+In this project we've worked into 2 major part 
+part 1 for Text mining and Analysis on twitter
+part 2 for tweet sentimental 
 
 ```
 Give examples
