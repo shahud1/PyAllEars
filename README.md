@@ -40,7 +40,7 @@ Run Jupyter Notebook in Terminal
 $ Jupyter Notebook
 
 ```
-After It run you can see in the directory [PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/](PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/)
+After It run you can see in the directory [PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/](https://github.com/shahud1/PyAllEars/tree/master/twitter_Streaming_API/Tweet_Mining%20and%20Deep_analyze)
 It contains  
 
 ```
