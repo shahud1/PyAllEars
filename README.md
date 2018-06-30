@@ -1,8 +1,5 @@
 # PyAllEars
-
-<a align="center">
-  <img src="<img src="https://github.com/shahud1/PyAllEars/tree/master/Img/Logo.png">
-</a>
+![logo](https://user-images.githubusercontent.com/17233710/42123523-c11d385a-7c7d-11e8-9393-a3d2a598f6e9.png)
 
 PyAllEars is the project contians of tool and deep analysis development in order to evesdroping social media. In this project we use "Twitter" as a Social Media platform to used to analyze.
 
