@@ -13,7 +13,7 @@ PyAllEars is a project done for analyzing what people say to measure their senti
 
 # Method 1:Text mining and Analysis on twitter
 
-![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Logo.png)
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Twitter_Text_Mining.png)
 
 In this part we use Twitter API to capture all tweets from most trending twitter on FIFA WorldCup2018 with the realtime filter tweet API and then Capterd the tweets. This method includes feature to ranking the most popularity from countries and poplarity of Top 4 football player. Then we'll extract all the links which were mentioned in tweeter and maping the data with football players to find the resources.
 
