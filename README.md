@@ -66,6 +66,9 @@ Tweet Mining and Analyzing.ipynb
 ```
 
 And follow along the description inside Jupyter notebook.
+## Video Tutorial
+
+https://youtu.be/HiaZmnSdbi4
 
 ## 🤓 Happy Data Science!
 
