@@ -1,9 +1,9 @@
 # PyAllEars
 ![logo](https://user-images.githubusercontent.com/17233710/42123523-c11d385a-7c7d-11e8-9393-a3d2a598f6e9.png)
 
-PyAllEars is the project contians of tool and deep analysis development in order to evesdroping social media. In this project we use "Twitter" as a Social Media platform to used to analyze.
+PyAllEars is a project done for analyzing what people say to measure their sentiment value. This was done a means of social media "Eavesdropping". In this project we use "Twitter" as thre Social Media platform.
 
-# In this project we've worked contian 2 major methods 
+# In this project out work contain 2 major Methods 
 
 <strong>Part 1</strong> Text mining and Analysis on twitter
 
