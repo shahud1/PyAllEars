@@ -8,7 +8,8 @@ PyAllEars is the project contians of tool and deep analysis development in order
 
 <strong>Part 2</strong> sentimental analysis on Twtiter
 
-## Part 1
+# Part 1:Text mining and Analysis on twitter
+In this part we use Twitter API to capture all tweets from our interest with the realtime filter tweet an
 ## Getting Started
 
 First of all you need to run this project in Jupyter Notebook in order to inspect the work and description You can either install <a href='https://www.anaconda.com/download/'> Anaconda</a> that already contained neccessary environmentsand these are Necessary libraries that we'll use for this project:
@@ -26,15 +27,22 @@ then you'll need to create your own twitter app for using Twitter API from this 
 
 ### Installing
 
-```
 [Anaconda](https://www.anaconda.com/download/)
 
+```
 pip install tweepy
 
 ```
 ## Running the tests
-In directory PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/
+Run Jupyter Notebook in Terminal
+
+```
+$ Jupyter Notebook
+
+```
+After It run you can see in the directory PyAllEars/twitter_Streaming_API/Tweet_Mining and Deep_analyze/
 It contains  
+
 ```
 2 Directories
 - data
@@ -45,22 +53,23 @@ It contains
 - Twitter_stream_api.py
 
 ```
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+Select 
 ```
-Give an example
+Tweet Mining and Analyzing.ipynb
 ```
 
-### And coding style tests
+And follow along the description inside Jupyter notebook.
 
-Explain what these tests test and why
+## 🤓 Happy Coding!
 
-```
-Give an example
-```
-
+# Part 2
+...
+## Getting Started
+...
+### Installing
+...
+## Running the tests
+...
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
@@ -73,11 +82,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please read [CONTRIBUTING.md](https://github.com/shahud1/PyAllEars/tree/master/twitter_Streaming_API/Tweet_Mining%20and%20Deep_analyze) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Contributor 
 
@@ -91,8 +96,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+https://matplotlib.org
+https://apps.twitter.com
+https://developer.twitter.com
+http://www.tweepy.org
+http://en.wikipedia.org/wiki/Text_mining
+http://en.wikipedia.org/wiki/Word-sense_disambiguation
+http://en.wikipedia.org/wiki/Regular_expression
 
