@@ -10,13 +10,13 @@ import json
 
 # create credential variables
 # put your consumer_key from Twitter API
-consumer_key = 'vmYHpTCOo34lqzrWSkdnhyd10'
+consumer_key = 'consumer_key'
 # put your consumer_secret from Twitter API
-consumer_secret = '4yR2GHiLQoKh71GDZgVAA8LEIJIuHT2DTMbPoOoV649rHzIpdW'
+consumer_secret = 'consumer_secret'
 # put your access_token from Twitter API
-access_token = '1008737228166594560-aGuXlq6Uqdg6AsDhGKMPm26eNAjeUV'
+access_token = 'access_token'
 # put your access_secret from Twitter API
-access_secret = 'h5Xy0Te0lCxmgXLyOFXGwELF29gJtYtvxg5DjW16cgOFG'
+access_secret = 'access_secret
 
 # create a class that listens to tweets
 class TweetListener(StreamListener):
