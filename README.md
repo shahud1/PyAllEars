@@ -9,12 +9,14 @@ PyAllEars is a project done for analyzing what people say to measure their senti
 
 <strong>Method 2</strong> Online twitter Sentiment Analysis AND Twitter Profile Analyzer SEE ONLINE NOW! http://178.128.40.132/
 
-VIDEOS: PART A : https://youtu.be/pYV1jdDVlfA  PART B : https://youtu.be/rqMQ-VtBidA
-
 [ ALL TWITTER KEYS HAVE BEEN REMOVED IN THE ABOVE CODES. PLEASE GET YOUR OWN KEYS FROM https://apps.twitter.com AND PLACE IT INSIDE THE CODE FOR IT TO WORK ]
 
 # Method 1:Text mining and Analysis on twitter
-In this part we use Twitter API to capture all tweets from our interest with the realtime filter tweet an
+
+![alt text](https://github.com/shahud1/PyAllEars/raw/master/Img/Logo.png)
+
+In this part we use Twitter API to capture all tweets from most trending twitter on FIFA WorldCup2018 with the realtime filter tweet API and then Capterd the tweets. This method includes feature to ranking the most popularity from countries and poplarity of Top 4 football player. Then we'll extract all the links which were mentioned in tweeter and maping the data with football players to find the resources.
+
 ## Getting Started
 
 First of all you need to run this project in Jupyter Notebook in order to inspect the work and description You can either install <a href='https://www.anaconda.com/download/'> Anaconda</a> that already contained neccessary environmentsand these are Necessary libraries that we'll use for this project:
